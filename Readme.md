@@ -1,7 +1,7 @@
 # Python Backend Engineer Take-Home Task
 
 ## Objective:
-You are required to build a Django-based backend application that integrates with a third-party API, exposes RESTful endpoints, and supports user interactions with the data. Additionally, you will be required to write unit tests, to deploy the application, and to document the project.
+* You are required to build a Django-based backend application that integrates with a third-party API, exposes RESTful endpoints, and supports user interactions with the data. Additionally, you will be required to write unit tests, to deploy the application, and to document the project.
 
 ## Expected deliverables and evaluation criteria
 * Have a working prototype of the task described below. It is fine if your prototype's performance does not match the quality you may have in mind. We value a prototype showcasing all the required tasks moderately well over a prototype which solves just a few of the required tasks very well.
@@ -37,7 +37,7 @@ You will build a simple application that interacts with a weather API and allows
 * Provide the link to your deployed application in the README.
 
 ## Unit Tests:
-Write unit tests for your API endpoints using any suitable testing framework.
+* Write unit tests for your API endpoints using any suitable testing framework.
 
 ## Documentation:
 Include a README.md that provides:
@@ -49,15 +49,16 @@ Include a README.md that provides:
 
 
 ## Evaluation Criteria:
-**API Integration:** How well you understood the third-party API documentation and integrated it into your app.
-**Code Quality:** Clarity, organization, and structure of your code (including adherence to Python best practices).
-**Database Management:** Correct use of a relational database for storing and retrieving data.
-**Testing:** Unit tests and test coverage, along with the correct use of testing libraries.
-**Deployment:** Successful deployment and functionality of the application on a cloud platform.
-**Documentation:** Clear and concise documentation in the README.md, covering setup, usage, and API details.
+* **API Integration:** How well you understood the third-party API documentation and integrated it into your app.
+* **Code Quality:** Clarity, organization, and structure of your code (including adherence to Python best practices).
+* **Database Management:** Correct use of a relational database for storing and retrieving data.
+* **Testing:** Unit tests and test coverage, along with the correct use of testing libraries.
+* **Deployment:** Successful deployment and functionality of the application on a cloud platform.
+* **Documentation:** Clear and concise documentation in the README.md, covering setup, usage, and API details.
 
 ## Expected Time:
-This task should take 12-14 hours to complete, including time to understand the third-party API, coding, testing, deployment, and documentation.
+* This task is expected to take a maximum of 1 week of your time. It is possible to write this up in two full days over a weekend(including time to understand the third-party API, coding, testing, deployment, and documentation). 
+* If it is taking you longer, please write to jobs@mlexperts.ai explaining your situation.
 
 
 ## Instructions to submit your work
