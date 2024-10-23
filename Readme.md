@@ -25,6 +25,7 @@ You will build a simple application that interacts with a weather API and allows
 * GET /weather?city={city_name}: Fetches weather details for the provided city name using the third-party API.
 * GET /history: Returns a list of recent searches from the database, including city names and timestamps.
 * DELETE /history: Clears all search history from the database.
+* Focus on exception handling and using appropriate status-codes. 
 
 ## Database (Django ORM):
 1. Use Django ORM to create a model that stores the search history.

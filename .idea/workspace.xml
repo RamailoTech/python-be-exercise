@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95b19aa8-ca6c-4013-a8ed-48a15ef09325" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="95b19aa8-ca6c-4013-a8ed-48a15ef09325" name="Changes" comment="Added more instructions">
       <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729678494428</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added more instructions">
+      <option name="closed" value="true" />
+      <created>1729680088998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729680088998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added more instructions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more instructions" />
   </component>
 </project>
