@@ -16,9 +16,18 @@ You will build a simple application that interacts with a weather API and allows
 
 ### Requirements:
 
+**Google Authentication:**
+* Users must authenticate via their Google accounts to access the API endpoints.
+* Only authenticated users can fetch weather data or access their search history.
+
 **API Integration:**
 * Use the OpenWeather API (or any other weather API of your choice).
 * Create a Django view that accepts a city name, fetches the weather data for that city from the API, and returns relevant weather information (temperature, weather conditions, etc.).
+
+**Caching with Redis:**
+* Use Redis to cache weather data.
+* Cache the weather data for each city for a certain duration (e.g., 15 minutes) to reduce external API calls and improve performance.
+* Implement caching using Django’s built-in Redis caching support or use django-redis.
 
 ## Django RESTful API:
 * Implement the following RESTful API endpoints using Django and Django REST Framework (DRF):
